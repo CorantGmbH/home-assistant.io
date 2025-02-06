@@ -98,6 +98,5 @@ After the integration has been initialized, the user can configure any of the fo
 
 ## Troubleshooting
 
-In any case, when reporting an issue, please enable [debug logging](/docs/configuration/troubleshooting/#debug-logs-and-diagnostics), restart the integration, and as soon as the issue reoccurs stop the debug logging again (_download of debug log file will start automatically_).
-Enabling debug has a slight performance impact on the system and is not recommended for long-term use.
-Once debug is enabled, you can check [Home Assistant System Logs](https://my.home-assistant.io/redirect/logs) for new messages.
+For troubleshooting or when reporting an issue, please enable [debug logging](/docs/configuration/troubleshooting/#debug-logs-and-diagnostics) and restart the integration. As soon as the issue reoccurs stop the debug logging, which will trigger the download of the debug log file.
+Enabling debug logging has a slight performance impact on the system and is not recommended for long-term use.
