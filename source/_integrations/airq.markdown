@@ -62,6 +62,7 @@ Currently, the integration supports the following sensors:
 | N2O                  | µg/m³               |
 | NO                   | µg/m³               |
 | NO2                  | µg/m³               |
+| Occupancy            |                     |
 | Organic Acid         | ppb                 |
 | Oxygen               | µg/m³               |
 | Ozone                | µg/m³               |
